@@ -1,0 +1,6 @@
+although this project didnt had much attention, it is now being detected, idk why, but is is detected as "Johnnie"
+
+https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:Win32/Johnnie.A!MTB&ThreatID=2147754903
+
+it may look the same, but i was here first lol, anyways this project is not fud anymore and it will get detected, although you may download the code to 
+modify it and come up with another one. 
