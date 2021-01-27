@@ -1,4 +1,7 @@
 # Peony----TROJAN
+
+(update: read : https://github.com/alexa872/Peony----TROJAN/blob/main/summary.txt)
+
 a fud trojan that targets windows 10
 by *alexa872
 
