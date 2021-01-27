@@ -12,7 +12,7 @@ this is another trojan that targets windows 10 i found this somewhere on the int
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-at the new upgrade windows 10 is detecting it but not as a meterpreter trojan, it is detecting the loader, what i am going to do is to place a loader code inside a legit function in a .dll file and im going to copy payload to somewher else in the same directory as the infected .dll so that when a pc call that function we infected the loader code will load our payload,we then achieved stealth and persistence at the same time, this will need some patience
+
 
 
 happy hunting
